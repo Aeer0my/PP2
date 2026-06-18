@@ -1,0 +1,17 @@
+{
+  "course": "Python Programming",
+  "students": [
+    {
+      "name": "Alice",
+      "grade": 92
+    },
+    {
+      "name": "Bob",
+      "grade": 85
+    },
+    {
+      "name": "Carol",
+      "grade": 78
+    }
+  ]
+}

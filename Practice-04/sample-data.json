@@ -1,0 +1,23 @@
+{
+    "totalCount": "400",
+    "imdata": [
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/33]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/34]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/35]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/36]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/1]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/2]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/3]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/4]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/5]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/6]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/7]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/8]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/9]",  "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/10]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/11]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/12]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/13]", "descr": "", "speed": "inherit", "mtu": "9150"}}},
+        {"l1PhysIf": {"attributes": {"dn": "topology/pod-1/node-201/sys/phys-[eth1/14]", "descr": "", "speed": "inherit", "mtu": "9150"}}}
+    ]
+}
