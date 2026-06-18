@@ -1,11 +1,5 @@
 # json.py
 # Python JSON parsing exercises
-#
-# NOTE: To run this file, use:
-#   python -c "import runpy; runpy.run_path('json.py')"
-# OR simply run from a parent directory:
-#   python Practice-04/json.py
-# This avoids Python treating json.py itself as the 'json' module.
 
 import json
 
